@@ -1,2 +1,5 @@
 console.log("ALX")
 ^C
+cd ..
+ls
+clear
